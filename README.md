@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="banner.jpg" alt="Banner de Ismael Lens" width="100%">
+  <img src="banner.jpeg" alt="Banner de Ismael Lens" width="100%">
 </p>
