@@ -15,6 +15,6 @@
 
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=ilensf&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&v=1](https://github-readme-stats.vercel.app/api?username=ilensf&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&v=1)" alt="Estadísticas de Ismael" height="165" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ilensf&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&v=1](https://github-readme-stats.vercel.app/api/top-langs/?username=ilensf&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&v=1)" alt="Lenguajes de Ismael" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ilensf&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&count_private=true" alt="Estadísticas de Ismael" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ilensf&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="Lenguajes de Ismael" height="165" />
 </div>
